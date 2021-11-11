@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/AplicacinReporterosIndependientesConAndroidARICA/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/AplicacinReporterosIndependientesConAndroidARICA/app/src/main/res/layout/activity_registrarse2.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_registrarse.xml" value="0.13621151271753681" />
+        <entry key="app/src/main/res/layout-w936dp/activity_registrarse.xml" value="0.158984375" />
+        <entry key="app/src/main/res/layout/activity_activiy_crear_noticia.xml" value="0.3482789855072464" />
+        <entry key="app/src/main/res/layout/activity_inicial.xml" value="0.3555253623188406" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3555253623188406" />
+        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/layout/activity_registrarse.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/layout/activity_registrarse2.xml" value="0.21197916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
